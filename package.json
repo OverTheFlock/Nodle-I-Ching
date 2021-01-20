@@ -60,7 +60,7 @@
     "eslint": "^5.5.0",
     "fs-extra": "^7.0.0",
     "get-image-data": "^3.0.1",
-    "jest": "^23.5.0",
+    "jest": "^24.9.0",
     "jpeg-js": "^0.3.4",
     "rimraf": "^2.6.2",
     "seedrandom": "^2.4.4",
